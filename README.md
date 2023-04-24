@@ -1,5 +1,5 @@
-###Python Text to Speech Converter
+# Python Text to Speech Converter
 
-##Functionalities
+## Functionalities
 1. Converting text
 2. Converting text files to audio

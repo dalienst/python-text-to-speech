@@ -1,0 +1,6 @@
+.env
+.pycache
+*.txt
+*.wav
+env
+pycache
